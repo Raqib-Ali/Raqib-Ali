@@ -1,4 +1,4 @@
-## Hi there it'a Raqib 👋
+## Hi there it's Raqib 👋
 
 - 🔭 I’m currently working on InventyStudio
 - 🌱 I’m currently learning Backend Development
