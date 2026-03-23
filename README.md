@@ -1,7 +1,7 @@
 ## Hi there it's Raqib 👋
 
-- 🔭 I’m currently working on InventyStudio
-- 🌱 I’m currently learning Backend Development
+- 🔭 I’m currently working on CodeRower
+- 🌱 I’m currently working as Mern Stack Developer
 - 💬 Ask me about Development and cool stuffs
 - 📫 How to reach me: aliraqib138@gmail.com
 - 😄 Pronouns: He/Him
